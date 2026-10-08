@@ -1,0 +1,13 @@
+[
+  {
+    "name": "3-bedroom-family-house-bristol",
+    "title": "3 Bedroom Family House in Bristol",
+    "price": 425000,
+    "location": "Bristol",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "House",
+    "description": "A spacious three-bedroom family home in Bristol with a modern kitchen,\nprivate garden and convenient access to local schools and transport links.",
+    "featured": true
+  }
+]

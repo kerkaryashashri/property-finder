@@ -1,0 +1,5 @@
+[
+  { "name": "sample-london-apartment", "title": "Sample: Two-bedroom London apartment", "price": 525000, "location": "Greenwich, London" },
+  { "name": "sample-manchester-house", "title": "Sample: Three-bedroom family house", "price": 325000, "location": "Didsbury, Manchester" },
+  { "name": "sample-birmingham-studio", "title": "Sample: City centre studio", "price": 175000, "location": "Jewellery Quarter, Birmingham" }
+]

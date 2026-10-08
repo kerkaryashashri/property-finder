@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/propertyfinder",
+        "create path (nt:unstructured) /content/dam/propertyfinder/jcr:content",
+        "set properties on /content/dam/propertyfinder/jcr:content\n  set cq:conf{String} to /conf/propertyfinder\n  set jcr:title{String} to \"Property Finder\"\nend"
+    ]
+}

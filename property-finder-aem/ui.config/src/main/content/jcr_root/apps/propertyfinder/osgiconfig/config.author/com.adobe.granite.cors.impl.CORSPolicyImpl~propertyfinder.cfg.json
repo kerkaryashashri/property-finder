@@ -1,0 +1,19 @@
+{
+  "alloworigin": ["http://localhost:5173"],
+  "allowedpaths": [
+    "/(content|conf)/propertyfinder.*",
+    "/graphql/execute\\.json/propertyfinder/.*"
+  ],
+  "supportedheaders": [
+    "Authorization",
+    "Origin",
+    "Accept",
+    "X-Requested-With",
+    "Content-Type",
+    "Access-Control-Request-Method",
+    "Access-Control-Request-Headers"
+  ],
+  "supportedmethods": ["GET","HEAD"],
+  "supportscredentials": true,
+  "alloworiginregexp": []
+}

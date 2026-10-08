@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/propertyfinder" mode="merge"/>
+    <filter root="/content/propertyfinder" mode="merge"/>
+    <filter root="/content/dam/propertyfinder" mode="merge">
+        <exclude pattern="/content/dam/propertyfinder(/.*)?"/>
+        <include pattern="/content/dam/propertyfinder/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/propertyfinder/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/propertyfinder" mode="merge"/>
+</workspaceFilter>

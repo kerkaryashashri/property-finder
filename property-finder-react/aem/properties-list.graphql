@@ -1,0 +1,17 @@
+{
+  propertyList {
+    items {
+      _path
+      title
+      price
+      location
+      bedrooms
+      bathrooms
+      propertyType
+      description {
+        plaintext
+      }
+      featured
+    }
+  }
+}
